@@ -1,0 +1,1 @@
+This is the  second file calles test2.txt created in support branch to check merging of branches.
